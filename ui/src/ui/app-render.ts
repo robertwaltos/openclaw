@@ -139,7 +139,6 @@ export function renderApp(state: AppViewState) {
             <span>${t("common.health")}</span>
             <span class="mono">${state.connected ? t("common.ok") : t("common.offline")}</span>
           </div>
-          <theme-switcher></theme-switcher>
           ${renderThemeToggle(state)}
         </div>
       </header>

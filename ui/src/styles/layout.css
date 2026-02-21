@@ -191,12 +191,6 @@
   height: 12px;
 }
 
-/* Theme switcher in topbar */
-.topbar-status theme-switcher {
-  display: flex;
-  align-items: center;
-}
-
 /* ===========================================
    Navigation Sidebar
    =========================================== */
